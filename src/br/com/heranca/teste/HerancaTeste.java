@@ -4,10 +4,10 @@ public class HerancaTeste {
 
 	class TestaGerente {
 		public static void main(String[] args) {
-		Gerente gerente = new Gerente();
-		gerente.setNome("Jonas Gay");
-		gerente.setSenha(123);
+			Gerente gerente = new Gerente();
+			gerente.setNome("Eu");
+			gerente.setSenha(123);
 		}
-		}
+	}
 
 }
